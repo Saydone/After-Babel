@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gedicht on Nick Kiesgen</title>
+    <link>/rubriken/gedicht/</link>
+    <description>Recent content in Gedicht on Nick Kiesgen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 26 Jan 2022 13:00:02 +0100</lastBuildDate><atom:link href="/rubriken/gedicht/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein Notfall für die Kunst</title>
+      <link>/posts/kunstnotfall/</link>
+      <pubDate>Wed, 26 Jan 2022 13:00:02 +0100</pubDate>
+      
+      <guid>/posts/kunstnotfall/</guid>
+      <description>Es stehen dunkle Schwaden an der Wand,
+Die an die Decke kriechen wollen, doch
+Das Licht, das hält sie immerhin am Boden.
+Es gilt, obwohl sie wie Dämonen drohen:
+Verdrossenheit und Tobsucht nutzt nicht, noch
+Gehader – freier Geist führt freie Hand.
+Gardinen gleichend reiß’ ich dran. Ein Ruck,
+Ich komm ans Fenster, seh’ nach draußen, wo
+Dahinter, eng an eng, die gleichen steh’n.
+Ein klares Fenster nach dem andren geh’n</description>
+    </item>
+    
+    <item>
+      <title>Was es heißt zu Leben</title>
+      <link>/posts/waseshei%C3%9Ftzuleben/</link>
+      <pubDate>Sun, 23 Jan 2022 20:50:42 +0100</pubDate>
+      
+      <guid>/posts/waseshei%C3%9Ftzuleben/</guid>
+      <description>Gedicht zu Collage „Lebewesen“</description>
+    </item>
+    
+    <item>
+      <title>Falscher Künstler</title>
+      <link>/posts/falscher_k%C3%BCnstler/</link>
+      <pubDate>Sun, 23 Jan 2022 20:48:04 +0100</pubDate>
+      
+      <guid>/posts/falscher_k%C3%BCnstler/</guid>
+      <description>Gedicht zu Collage „Beruf Germanist“</description>
+    </item>
+    
+    <item>
+      <title>Ein Mord ohne Leiche</title>
+      <link>/posts/leiche_gedicht/</link>
+      <pubDate>Sun, 23 Jan 2022 20:39:19 +0100</pubDate>
+      
+      <guid>/posts/leiche_gedicht/</guid>
+      <description>Gedicht zur Collage „Sind wir Menschen?“</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aphorismus on Nick Kiesgen</title>
+    <link>/rubriken/aphorismus/</link>
+    <description>Recent content in Aphorismus on Nick Kiesgen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 06 Feb 2021 18:05:54 +0100</lastBuildDate><atom:link href="/rubriken/aphorismus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dichtung und Wort</title>
+      <link>/posts/dichtungundwort/</link>
+      <pubDate>Sat, 06 Feb 2021 18:05:54 +0100</pubDate>
+      
+      <guid>/posts/dichtungundwort/</guid>
+      <description>Es mag wohl behauptet werden, dass die Schönheit der Dichtung darin liegt,
+dass sie der Ort ist, da Worte alles sein können.
+Entgegne dem in Zukunft, müßiger Leser, dass sie vielmehr der Ort ist,
+da alles, bis zur Wirklichkeit, Wort ist.</description>
+    </item>
+    
+    <item>
+      <title>Nährboden der Wahrheit</title>
+      <link>/posts/naehrboden/</link>
+      <pubDate>Sat, 06 Feb 2021 18:05:54 +0100</pubDate>
+      
+      <guid>/posts/naehrboden/</guid>
+      <description>Alle Wirklichkeit ist an die Wahrheit gebunden,
+mit dem Menschen aber,
+ist sie zugleich auch der Nährboden der Wahrheit,
+indem sie Erkenntnis zur Tat werden lässt.</description>
+    </item>
+    
+    <item>
+      <title>Wahr? Wirklich!</title>
+      <link>/posts/wahrwirklich/</link>
+      <pubDate>Sat, 06 Feb 2021 18:05:54 +0100</pubDate>
+      
+      <guid>/posts/wahrwirklich/</guid>
+      <description>Welchen Nutzen bringt dir nun die Wahrheit?
+Welchen Einwand hast du gegen die Wirklichkeit der Dichtung,
+wenn auch deine Wahrheit, recht bedacht,
+für dich selbst nichts anderes als Wirklichkeit ist?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emotion on Nick Kiesgen</title>
+    <link>/tags/emotion/</link>
+    <description>Recent content in Emotion on Nick Kiesgen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 16 Jan 2022 15:00:04 +0100</lastBuildDate><atom:link href="/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Im Angstrausch</title>
+      <link>/posts/angstrausch/</link>
+      <pubDate>Sun, 16 Jan 2022 15:00:04 +0100</pubDate>
+      
+      <guid>/posts/angstrausch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alles in Ordnung</title>
+      <link>/posts/ordnung/</link>
+      <pubDate>Sun, 16 Jan 2022 13:37:26 +0100</pubDate>
+      
+      <guid>/posts/ordnung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offen für Schein</title>
+      <link>/posts/schauspielerei/</link>
+      <pubDate>Sun, 16 Jan 2022 11:37:26 +0100</pubDate>
+      
+      <guid>/posts/schauspielerei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>missverstandenes Gefühl</title>
+      <link>/posts/missverstandenes_gefuehl/</link>
+      <pubDate>Sat, 15 Jan 2022 15:37:26 +0100</pubDate>
+      
+      <guid>/posts/missverstandenes_gefuehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicht zu stoppen</title>
+      <link>/posts/nicht_zu_stoppen/</link>
+      <pubDate>Mon, 01 Mar 2021 18:04:19 +0100</pubDate>
+      
+      <guid>/posts/nicht_zu_stoppen/</guid>
+      <description>Es war ein Abend im Frühjahr und die Sonne war bereits untergegangen. Die Blätter der Bäume hatten schon begonnen nachzuwachsen und hingen als grüne Farbspritzer in den Baumkronen. Ein Mann im schwarzen Mantel stieg Schritt für Schritt die Stufen zu einem Steg am Donauufer hinunter. Sein Atem ging stoßartig, als bekäme er kaum Luft. Als er das Ende der Treppe erreicht hatte, griff er mit zitternden Händen in seine linke Manteltasche.</description>
+    </item>
+    
+  </channel>
+</rss>
